@@ -1,0 +1,38 @@
+_repo: Ruines-et-fant-mes_17830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsène-Arnaud
+    - Claretie, Arsene-Arnaud
+    - Claretie, Arsène-Armand
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17830'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century'
+- !lcc 'PQ'
+tableOfContents: Préface -- L'Abbé Hardy et Lucille Gautier -- Le 20 juin 1792 --
+  Le 11 août 1792 -- La Place Dauphine -- Mademoiselle de Sombreuil -- La maison de
+  Marat -- La rotonde du temple -- L'Hôtel Chantereine -- Les autographes -- Charles
+  Nodier et sa jeunesse -- Les cimetières parisiens -- Moreau de Jonnès -- Champigny
+  --  Saint-Cloud -- Paris après la commune -- L'Hôtel de Ville -- De Germinal à Prairial
+  -- La fête mortuaire d'Alexandre Dumas -- Versailles -- La dernier fantôme.
+title: Ruines et fantômes
+url: http://www.gutenberg.org/ebooks/17830
